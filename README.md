@@ -30,7 +30,7 @@ This project incorporates data analysis techniques, specializing in time series 
 
 To get started with the project, follow these steps:
 1. Clone this repository to your local machine.
-2. Open the Power BI report file (.pbix) using Power BI Desktop.
+2. Open the Power BI report file (.pbit) using Power BI Desktop.
 3. Connect the report to the Superstore sales dataset located in the /Data folder.
 4. Explore the dashboard visualizations, analyze the data, and leverage the sales forecasting feature.
 
